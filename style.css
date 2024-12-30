@@ -1,0 +1,14 @@
+body { 
+       font-family: Arial,
+       sans-serif;
+       background-color: #f4f4f4;
+       color: #333;
+}
+p {
+    fontsize:3;
+    color:#333333;	
+}
+h1 { 
+    fontsize:8;
+    color:#4CAF50;
+}

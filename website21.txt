@@ -1,0 +1,57 @@
+<html>
+<head>
+           <title> Transportation </title>
+<link rel="stylesheet" href="styles.css">
+<script src="script.js" defer></script>
+</head>
+<body>
+ <h1> <p align=center>  Ways of Travelling </p> </h1>
+ <p> <b> <font size = 3> We can travel by three way. All these ways are mentioned below as following: you can also see their virtual representation by clicking on the name of the way.</b> </font> </p>
+ <ol> 
+    <li> <a href="D:\Downloads\travelbyair.jpg"> Travel by Air  </li> </a>
+    <li> <a href="D:\Downloads\travelbyroad.jpg"> Travel by Road </li> </a>
+    <li> <a href="D:\Downloads\travelbywater.jpg"> Travel by water </li> </a>
+    </ol>
+<p> Now we will explain all these 3 ways of travelling one by one with full explanation you can read all the text related to that ways and also see some travelling vehicles on this page. </p>
+<br>
+<h1>  Travelling by Air </h1>
+<p> Today there are so many vehicles through which we can travel by air. Travelling by air is so much benefical for time because it has reduce time consumption also we can cover a long time distances just in seconds. Today we can go to any country of world without difficulty. Their are many vehicles but the most common ones are mentioned below as:
+<ul> <li> Aeroplane <li> Helicopter <li> Air Ballons </li> </ul>
+<p> <font color:red> Note:To see the pictures of these vehicles you can click below on their names. </font></p>
+<ul>
+   <li> <a href="D:\Downloads\aeroplane1.jpg"> Aeroplane </a>
+   <li> <a href="D:\Downloads\helicopter.jpg"> Helicopter </a>
+   <li> <a href="D:\Downloads\airballon.jpg">  Air Ballon </a>
+</ul>
+<br>
+<h1> Travelling by Road </h1>
+<p> We can reach out to our desired place travelling by road. Travel by road is a litle bit difficult but when we have to go and have to cover a small distance then by air is not suitable for us so for that reason travel by road method use and from centuries people are travelling through roads. It's a better choice because everbody can afford this. In past people use their animals like horse and camel for travelling. But now many vehicles have been inveted through them we can travel. some of them ae mentioned below as: </p>
+<ul> <li> Cars <li> Buses <li> Trucks <li> Motorbikes </li> </ul>
+<p> Note:To see the pictures of these vehicles you can click below on their names. </p>
+<ul> 
+   <li> <a href="D:\Downloads\car.jpg"> Cars </a>
+   <li> <a href="D:\Downloads\bus.jpg"> Buses </a>
+   <li> <a href="D:\Downloads\truck.jpg"> Truck </a>
+   <li> <a href="D:\Downloads\bike.jpg"> Bike </a>
+<br>
+<h1> Travelling by water </h1>
+<p> We can also travel by using water routes. Whenever we need to transfer a heavyload then we have only one option for travelling and this is travel by air. when different countries import something from another country or organization then we use ships. These ships travel throughout the water and takes usally more time then normal. But heavyload such as imported cars and heavy machinery can be transfer only on ships. Therefore, its an important way of travelling. Moreover in lakes people sit on the boats and enjoy the journey in water. This way of travelling is much dangerous as sea layers may harm to ship.Some water vehicles names are mentioned below as :</p>
+<ul> <li> Ships <li> water boats </li> </ul>
+<p> Note: To see the pictures of these vehicles you can click below on their names. </p>
+<ul>
+<li> <a href="D:\Downloads\ship.jpg"> Ship </a>
+<li> <a href="D:\Downloads\boat.jpg"> Boat </a>
+<br>
+<h2>About us</h2>
+<p>if you have any query you can fill out the form below </p>
+<input type="text" id="input field" placeholder="Enter your name">
+<input type="text" id="input field" placeholder="Enter your Email">
+<input type="text" id="input field" placeholder="Enter your Number">
+<button onclick="handleclick()"> submit </button>
+<script> 
+const userInput=prompt("Enter your name");
+<button onclick="window['color_change1']()"> change color </button>
+
+</script>
+</body>
+</html>
